@@ -1,0 +1,25 @@
+
+Nachos 
+
+Ingredients:
+	corn chips
+	cheese
+	salsa
+	Optional:
+		corn
+		beans
+		chili
+		jalapenos
+		guacamole
+		etc.
+
+Method: 
+	Preheat oven grill
+	Place chips on the plate
+	Add cheese on top
+	Place plate in the oven until cheese melts
+	remove from oven and add other toppings
+	
+	
+	
+
